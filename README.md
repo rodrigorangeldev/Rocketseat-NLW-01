@@ -17,7 +17,7 @@ Projeto criado durante a Next Level Week, treinamento oferecido pela Rocketseat 
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ecoleta, projeto desenvolvido para cadastrar e encontrar pontos de coleta de resíduos de forma eficiente.
+O Ecoleta, é um projeto desenvolvido para cadastrar e encontrar pontos de coleta de resíduos de forma eficiente.
 
 ## 🤔 Como contribuir
 
