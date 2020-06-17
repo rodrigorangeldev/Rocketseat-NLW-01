@@ -31,6 +31,66 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O Ecoleta, é um projeto desenvolvido para cadastrar e encontrar pontos de coleta de resíduos de forma eficiente.
 
+
+## :information_source: Como usar
+
+Para rodar este projeto você vai precisar go Git instalado no seu computador, um gerenciador de pacotes (Yarn ou npm) juntamente com o  NodeJs.
+
+### Instalação da API
+
+```bash
+# Clonar este repositório
+
+# Entre na pasta server
+$ cd server
+
+# Instalar as dependências 
+$ yarn install | npm install
+
+# Rodar as migrações
+$ yarn knex:migrate
+
+# Rodas os Seeds
+$ yarn knex:seed
+
+# Start server
+$ yarn start / npm start
+
+# deverá estar rodando na porta 3333
+```
+
+### Instalação Front-End
+
+```bash
+
+# Entrar na pasta web
+$ cd web
+
+# Instalar as dependências
+$ yarn install
+
+# Rodar
+$ yarn start | npm start
+
+# deverá rodar na porta 3000
+```
+
+### Instalação Mobile
+
+```bash
+
+# Entrar no diretório mobile
+$ cd mobile
+
+# Instalar as dependências
+$ yarn install | npm install
+
+# Rodar
+$ yarn start | npm start
+
+# Este projeto roda através da ferramenta Expo.
+```
+
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
